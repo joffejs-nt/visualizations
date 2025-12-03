@@ -1,6 +1,7 @@
 {
   "name": "NT Custom Visualization",
   "organization": "NinjaTrader",
+  "logoUrl": "logo.png",
   "packageUrl": "index.html",
   "components": [
     {
