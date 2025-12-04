@@ -1,0 +1,12 @@
+{
+  "name": "NT Custom Visualization",
+  "organization": "NinjaTrader",
+  "logoUrl": "logo.png",
+  "packageUrl": "https://joffejs-nt.github.io/visualizations/index.html",
+  "components": [
+    {
+      "id": "main",
+      "file": "index.js"
+    }
+  ]
+}
